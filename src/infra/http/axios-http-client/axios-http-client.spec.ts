@@ -3,7 +3,6 @@ import { mockPostRequest } from '@/data/test'
 import { mockAxios } from '@/infra/test'
 
 import axios from 'axios'
-import faker from 'faker'
 
 jest.mock('axios')
 
